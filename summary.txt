@@ -1,0 +1,6 @@
+Total lines: 7062
+Total words: 1047393
+Minimum line length: 35
+Maximum line lenth: 720
+Single word: 124
+Line lenth frequency: 
